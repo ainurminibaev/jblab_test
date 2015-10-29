@@ -8,8 +8,11 @@ public class Main {
         switch (k) {
             case 1:
                 System.out.println("MISHA");
-
                 break;
+            case 2:
+                System.out.print("KOROL");
+            case 34:
+                System.out.println("34");
             default:
                 System.out.println("Ainur");
         }
