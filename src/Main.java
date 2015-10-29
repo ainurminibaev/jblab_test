@@ -7,7 +7,7 @@ public class Main {
         int k = 0;
         switch (k) {
             case 1:
-                System.out.println("Your name");
+                System.out.println("Alexander");
                 break;
             default:
                 System.out.println("Ainur");
