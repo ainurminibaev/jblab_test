@@ -4,13 +4,14 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("sdfdsf");
-        int k = 34;
+        int k = 123123123;
         switch (k) {
             case 1:
-                System.out.println("Your name");
+                System.out.println("Vladislav");
                 break;
-            case 34:
-                System.out.println("34");
+            case 123123123:
+                System.out.println("123123123");
+                break;
             default:
                 System.out.println("Ainur");
         }
