@@ -4,10 +4,10 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("sdfdsf");
-        int k = 0;
+        int k = 17;
         switch (k) {
-            case 1:
-                System.out.println("Your name");
+            case 17:
+                System.out.println("Aidar");
                 break;
             default:
                 System.out.println("Ainur");
