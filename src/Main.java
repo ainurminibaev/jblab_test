@@ -4,9 +4,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("sdfdsf");
-        int k = 0;
+        int k = 999;
         switch (k) {
-            case 1:
+            case 999:
                 System.out.println("Alexander");
                 break;
             default:
