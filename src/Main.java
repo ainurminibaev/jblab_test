@@ -9,6 +9,8 @@ public class Main {
             case 999:
                 System.out.println("Alexander");
                 break;
+            case 34:
+                System.out.println("34");
             default:
                 System.out.println("Ainur");
         }
