@@ -8,6 +8,7 @@ public class Main {
         switch (k) {
             case 1:
                 System.out.println("MISHA");
+
                 break;
             case 2:
                 System.out.print("KOROL");
