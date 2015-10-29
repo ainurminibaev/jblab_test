@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("sdfdsf");
         int k = 2;
+        int k = 34;
         switch (k) {
             case 1:
                 System.out.println("MISHA");
@@ -12,6 +13,8 @@ public class Main {
                 break;
             case 2:
                 System.out.print("KOROL");
+            case 34:
+                System.out.println("34");
             default:
                 System.out.println("Ainur");
         }
